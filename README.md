@@ -2,7 +2,7 @@
 
 # Cyber ⚡ Shamanic
 
-<img src="Cyber shamanism in a digital age.png"/>
+<img src="Cyber shamanic energy and technology.png"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:6A00FF&text=Cyber%20⚡%20Shamanic&fontAlign=50&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
@@ -306,4 +306,4 @@ https://github.com/Cyber-Shamanic
 
 ---
 
-<img src="Cyber shamanic energy and technology.png"/>
+<img src="Cyber shamanism in a digital age.png"/>
