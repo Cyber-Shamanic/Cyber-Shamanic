@@ -8,6 +8,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,100:6A00FF&text=Cyber%20⚡%20Shamanic&fontAlign=50&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Cyber-Shamanic&label=Visitors&color=00FFFF&style=for-the-badge"/>
 
 *"Technology becomes powerful when guided by wisdom."*
