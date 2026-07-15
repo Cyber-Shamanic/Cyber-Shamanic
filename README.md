@@ -2,6 +2,8 @@
 
 # ⚡ Cyber Shamanic
 
+<img src="Cyber shamanic energy and technology.png"/>
+
 ### Cybersecurity • AI • Automation • OSINT • Ethical Hacking • Open Source
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Cyber+Solutions.;AI+Automation+Engineer.;OSINT+Researcher.;Ethical+Hacker.;Open+Source+Contributor.;Never+Stop+Learning." />
