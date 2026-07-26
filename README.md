@@ -2,6 +2,8 @@
 
 # Cyber ⚡ Shamanic
 
+<img src="Luxurious gratitude tribute in gold and blue.png"/>
+
 ### 🔐 Cybersecurity • 🤖 Artificial Intelligence • ⚡ Automation • 🌍 OSINT • ☁️ Cloud • 🚀 Open Source
 
 <img src="Cyber shamanic energy and technology.png"/>
@@ -309,3 +311,6 @@ https://github.com/Cyber-Shamanic
 ---
 
 <img src="Cyber shamanism in a digital age.png"/>
+
+<img src="Luxurious gratitude tribute in gold and blue.png"/>
+
